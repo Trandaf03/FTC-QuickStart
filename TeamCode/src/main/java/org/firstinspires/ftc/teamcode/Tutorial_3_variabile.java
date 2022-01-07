@@ -129,6 +129,26 @@ public class Tutorial_3_variabile {
 
         ceva = ceva * ceva; // ceva primeste 20*20 = 400;        primeste <=> memoreaza (echivalente)
 
+        //Exista si "shortcut-uri" pentru a adauga valuarea "1" la un element:
+        int abcd = 0;
+        abcd++;
+        // in acest moment, abcd are valoarea 1
+        ++abcd;
+        // in acest moment, abcd are valoarea 2
+        // la fel functioneaza si abcd--; sau --abcd;
+        /**
+         * !Exista si o diferenta intre abcd++ si ++abcd
+         * pentru ++abcd, incrementarea(se adauga 1) se realizeaza inainte ca valoarea abcd sa fie folosita
+         * abcd = 0
+         * gigel = 0 + ++abcd;
+         * aici gigel o sa aibe valoarea 1, iar abcd tot 1.
+         *
+         * pentru abcd++, incrementarea(se adauga 1) se realizeaza dupa ce valoarea abcd va fi folosita
+         * abcd = 0;
+         * gigel = 0 + abcd++;
+         * aici gigel o sa aibe valoarea 0, iar abcd 1;
+         * */
+
         /**
          * Acum problema intervine la DIV si MOD
          *
@@ -151,6 +171,7 @@ public class Tutorial_3_variabile {
 
         double maimuta = 121.5;
         maimuta = 121.5 / 5; // in acest moment, variabila maimuta memoreaza 24.3
+
 
 
 

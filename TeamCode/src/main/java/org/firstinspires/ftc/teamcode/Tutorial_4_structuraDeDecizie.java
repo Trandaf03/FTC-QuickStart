@@ -174,6 +174,23 @@ public class Tutorial_4_structuraDeDecizie {
 
     }
 
+    /**
+     * Caz particular pentru MOD
+     * Fie a un numar intreg oarecare. Pentru a verifica daca a este un numar par:
+     * if(a % 2 == 0)
+     *     // atunci numarul a este par
+     * else
+     *     // atunci numarul a este impar
+     *
+     * De ce? Orice numar care se imparte exact la 2 (fara rest) este un numar par.
+     * Exemplul poate continua:
+     * if(a % 3 == 0)
+     *    // atunci numarul se imparte exact la 3;
+     * else
+     *    // numarul nu se imparte exact la 3;
+     *
+     * */
+
 
 
     /** RECAPITULARE/ DE RETINUT !
