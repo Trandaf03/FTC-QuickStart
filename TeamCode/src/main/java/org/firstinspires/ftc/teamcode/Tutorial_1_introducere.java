@@ -11,6 +11,9 @@ public class Tutorial_1_introducere {
      *
      * MULT SUCCES
      *
+     *
+     * !Nimeni nu se naste experimentat, nici eu. Tot ce va explic voua este ce am invatat singur, ba de pe internet, ba din greseli.
+     *              * Nu va fie frica sa gresiti. Doar asa puteti invata!
      * */
 
 
