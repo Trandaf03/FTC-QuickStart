@@ -5,9 +5,8 @@ Pentru a ajuta novicii în programare să înțeleagă bazele Java și ale compe
 ## Descărcare 
 Urmăriți pașii de aici pentru a descărca [librăria](https://bit.ly/tutorialDescarcareFtcQuickStart).
 ## Structura:
-```
-**Capitolul 1** -> Informatii necesare pentru a putea programa orice in lumea FTC
-**Capitolul 2** -> Programarea unui robot cu drive pe roti omnidirectionale, mai precis a robotului nostru din sezonul #4 : [Skystone](https://youtu.be/G8SyNjn9Rbw)
-**Capitolul 3** -> Programarea unui robot cu sasiu mecanum
-**Capitolul 4** -> Programarea unui robot cu sasiu mecanum + giroscop
-```
+
+###### **Capitolul 1** -> Informatii necesare pentru a putea programa orice in lumea FTC
+###### **Capitolul 2** -> Programarea unui robot cu drive pe roti omnidirectionale, mai precis a robotului nostru din sezonul #4 : [Skystone](https://youtu.be/G8SyNjn9Rbw)
+###### **Capitolul 3** -> Programarea unui robot cu sasiu mecanum
+###### **Capitolul 4** -> Programarea unui robot cu sasiu mecanum + giroscop
