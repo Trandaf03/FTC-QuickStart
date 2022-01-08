@@ -1,6 +1,7 @@
-package org.firstinspires.ftc.teamcode;
+package org.firstinspires.ftc.teamcode.Capitolul1;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
@@ -28,7 +29,7 @@ import com.qualcomm.robotcore.hardware.DcMotorSimple;
  * -> miscare fata pentru 4.5secunde cu viteza 0.9
  *
  * */
-
+@Disabled
 @Autonomous (name = "autoTimp1")
 public class Tutorial_9_simplaAutonomiePeTimp1 extends LinearOpMode {
 

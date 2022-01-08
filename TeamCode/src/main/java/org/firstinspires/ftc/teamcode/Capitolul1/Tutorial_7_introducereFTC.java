@@ -1,7 +1,8 @@
-package org.firstinspires.ftc.teamcode;
+package org.firstinspires.ftc.teamcode.Capitolul1;
 
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
-
+@Disabled
 
 /**
  * Am invatat tot ce este necesar pentru a putea incepe sa programam un robot. Fiti atenti aici, deoarece aceste lucruri

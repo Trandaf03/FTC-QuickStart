@@ -1,5 +1,6 @@
-package org.firstinspires.ftc.teamcode;
+package org.firstinspires.ftc.teamcode.Capitolul1;
 
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
@@ -22,7 +23,7 @@ import com.qualcomm.robotcore.hardware.Servo;
  *                                            in pozitia 0.5, mecanismul se ridica pentru 10cm de la teren,
  *                                            in pozitia 0.1, mecanismul se ridica pentru 20cm de la teren.
  */
-
+@Disabled
 public class Tutorial_12_primulTeleOP2 extends LinearOpMode {
 
     DcMotor stanga = null;

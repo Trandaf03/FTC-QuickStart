@@ -1,5 +1,6 @@
-package org.firstinspires.ftc.teamcode;
+package org.firstinspires.ftc.teamcode.Capitolul1;
 
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
@@ -26,7 +27,7 @@ import com.qualcomm.robotcore.hardware.Servo;
  * fie cutieViteze o cutie de vieteze pentru sasiu. Daca apas un buton, indiferent de pozitia stick-ului merg cu o viteza, iar daca
  *                                                       apas alt buton, indiferent de pozitia stick-ului merg cu o alta viteza
  */
-
+@Disabled
 public class Tutorial_13_primulTeleOP4 extends LinearOpMode {
 
     DcMotor stanga = null;

@@ -1,5 +1,8 @@
-package org.firstinspires.ftc.teamcode;
+package org.firstinspires.ftc.teamcode.Capitolul1;
 
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
+
+@Disabled
 public class Tutorial_4_structuraDeDecizie {
 
     /**

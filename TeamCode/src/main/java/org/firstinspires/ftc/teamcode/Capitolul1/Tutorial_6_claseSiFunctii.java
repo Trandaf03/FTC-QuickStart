@@ -1,4 +1,8 @@
-package org.firstinspires.ftc.teamcode;
+package org.firstinspires.ftc.teamcode.Capitolul1;
+
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
+
+@Disabled
 //2. Clasa noastra se afla in package-ul de mai sus. Proietul este impartit in doua,
 // TeamCode - unde programam noi, si FtcRobotController - aplicatia propriu-zisa, de care nu o sa ne atingem
 // Acestea se afla intr-un fisier mai mare (in acest caz, FTC-QuickStart, instalat de voi, iar
